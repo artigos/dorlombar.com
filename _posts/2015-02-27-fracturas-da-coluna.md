@@ -4,7 +4,7 @@ title: fraturas da coluna
 category: dor lombar
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 As fracturas da coluna nem sempre resultam de traumatismo e podem ser assintomáticas. Podem ser secundárias a osteoporose, perturbações metabólicas, neoplasias malignas ou infecção. As fracturas vertebrais osteoporóticas surgem num terço das mulheres americanas com mais de 65 anos, o que as torna nas fracturas mais frequentemente encontradas em clínica geral. As fracturas em osso normal estão quase sempre relacionadas com um traumatismo.
 <h2>história</h2>

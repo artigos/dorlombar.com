@@ -4,7 +4,7 @@ title: compressão medular e da cauda equina
 category: dor lombar
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 <img src="http://www.dorlombar.com/images/compressao-medular.jpg" alt="Compressão medular e da cauda equina" />
 

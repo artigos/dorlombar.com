@@ -5,7 +5,7 @@ category: artigos
 permalink: quiropratica
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Nos EUA existem aproximadamente 55.000 quiropráticos credenciados, o que os torna o maior grupo de praticantes de terapêutica manual. Os cuidados de quiroprática baseiam-se principalmente da manipulação da coluna. A filosofia quiroprática baseia-se na crença de que a perturbações na biomecânica afectam o sistema nervoso que, por sua vez, afecta todos os outros sistemas corporais. Estas perturbações são referidas como sendo subluxações. Os quiropráticos procuram melhorar a neurotransmissão ao realizarem "ajustamentos da coluna de baixa amplitude e alta velocidade aplicados a pontos de contacto específicos sobre as apófises espinhosas".
 

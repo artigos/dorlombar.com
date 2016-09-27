@@ -4,7 +4,7 @@ title: fratura de esforço (espondilólise)
 category: patologias
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 A espondilólise e a espondilolistese constituem as causas mais comuns de dor dorso-lombar nas crianças com idade superior a 10 anos. A espondilólise é uma fractura de esforço da pars interarticularis associada aos desportos que envolvem flexão e extensão repetitivas ou uma hiperextensão lombar persistente, tais como a dança, a ginástica, o skating artístico, o futebol (especialmente as posições defensivas), o ténis e o treino de levantamento de pesos.
 

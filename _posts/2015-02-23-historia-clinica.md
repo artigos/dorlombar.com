@@ -4,7 +4,7 @@ title: história clínica
 category: avaliação
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Procure determinar como foi o início da dor (aguda ou gradual), o traumatismo que a ocasionou, a duração dos sintomas, a frequência, a intensidade e a irradiação da dor e os factores que a aliviam ou a acentuam. Inquira sobre a história de uma lesão prévia. Investigue o nível de participação nos desportos, incluindo aumentos na intensidade da actividade (número de horas por semana), o início de qualquer desporto ou têcnica, a quantidade de actividade desde o início da dor e quaisquer treinos cruzados associados. A dor que interfere com actividades da vida diária ou com a participação nos desportos geralmente justifica uma avaliação pormenorizada.
 
@@ -29,7 +29,7 @@ Tenha em mente a possibilidade de uma dor dorso-lombar psicossomática, especial
 <table width="100%" border="0" cellpadding="10">
 <tbody>
 <tr>
-<td bgcolor="#f8f8f8"><img src="http://www.dorlombar.com/images/avaliacao-coluna-2.jpg" alt="" width="148" height="200" />A dor com a flexão anterior pode indicar uma lesão da face anterior da coluna, uma vez que esta manobra sobrecarrega os elementos dessa região. Pelo contrário, a dor com o retomar da posição ortostática contra resistência pode indicar uma lesão da face posterior da coluna.</td>
+<td bgcolor="# f8f8f8"><img src="http://www.dorlombar.com/images/avaliacao-coluna-2.jpg" alt="" width="148" height="200" />A dor com a flexão anterior pode indicar uma lesão da face anterior da coluna, uma vez que esta manobra sobrecarrega os elementos dessa região. Pelo contrário, a dor com o retomar da posição ortostática contra resistência pode indicar uma lesão da face posterior da coluna.</td>
 </tr>
 </tbody>
 </table>
@@ -51,7 +51,7 @@ Tenha em mente a possibilidade de uma dor dorso-lombar psicossomática, especial
 <table width="100%" border="0" cellpadding="10">
 <tbody>
 <tr>
-<td bgcolor="#f8f8f8"><img src="http://www.dorlombar.com/images/avaliacao-coluna-1.jpg" alt="" width="148" height="200" align="absmiddle" />
+<td bgcolor="# f8f8f8"><img src="http://www.dorlombar.com/images/avaliacao-coluna-1.jpg" alt="" width="148" height="200" align="absmiddle" />
 Note qualquer limitação no movimento na rotação lateral.</td>
 </tr>
 </tbody>

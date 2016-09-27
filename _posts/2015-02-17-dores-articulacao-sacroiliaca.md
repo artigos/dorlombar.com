@@ -4,7 +4,7 @@ title: dores na articulação sacroilíaca
 category: patologias
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Os doentes que têm dores na articulação sacroilíaca queixam-se de dor com a hiperextensão, semelhante à das lesões da pars interarticularis. O exame objectivo revela geralmente dor com a hiperextensão e hiperestesia à palpação da articulação sacroilíaca.
 

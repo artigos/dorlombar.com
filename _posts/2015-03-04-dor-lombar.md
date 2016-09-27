@@ -4,7 +4,7 @@ title: Dor Lombar
 category: dor lombar
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 <img src="http://www.dorlombar.com/images/img06.jpg" /> A dor lombar atinge mais de 85% dos adultos nalguma fase das suas vidas. Tem uma prevalência pontual de aproximadamente 30% e é uma das queixas mais frequentes com que os clínicos gerais são confrontados.
 

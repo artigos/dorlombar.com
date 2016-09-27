@@ -4,7 +4,7 @@ title: exame objectivo
 category: avaliação
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 O exame de um doente com uma dor dorso-lombar começa no momento em que este entra na sala de observação com a inspecção da marcha e da postura. Com o doente totalmente despido, verifique se existe assimelria muscular e pélvica, sinais de imobilização com talas, defeitos da linha média, tufos da pelos e hemangiomas. Avalie o contorno da coluna com o doente em posição ortostática e com o tronco nectido para a frente, procurando identificar a presença de um aumento da lordose lombar, de cifose torácica e de escoliose.
 Proceda à palpação do dorso para verificar se existe hiperestesia ou outros achados. inclua as vértebras, as apófises espinhosas, os espaços inter-vertebrais, os ligamentos inter-vertebrais, a junção lombo-sagrada, os ombros e as omoplatas e os músculos para-vertebrais. Verifique se existe uma discrepância no comprimento dos membros inferiores se observar uma alteração da marcha.
@@ -27,7 +27,7 @@ O teste provocatório de hiperextensão sobrecarrega ainda mais a face posterior
 <table width="100%" border="0" cellpadding="10">
 <tbody>
 <tr>
-<td bgcolor="#f8f8f8"><img src="http://www.dorlombar.com/images/exame-objectivo-1.jpg" alt="" width="148" height="200" />
+<td bgcolor="# f8f8f8"><img src="http://www.dorlombar.com/images/exame-objectivo-1.jpg" alt="" width="148" height="200" />
 Note qualquer limitação no movimento na flexão lateral.</td>
 </tr>
 </tbody>
@@ -50,7 +50,7 @@ Note qualquer limitação no movimento na flexão lateral.</td>
 <table width="100%" border="0" cellpadding="10">
 <tbody>
 <tr>
-<td bgcolor="#f8f8f8"><img src="http://www.dorlombar.com/images/exame-objectivo-2.jpg" alt="" width="148" height="200" align="absmiddle" />O doente mantém-se de pé sobre um dos membros inferiores enquanto o examinador, colocado por trás do doente, procede, suavemente, à hiperextensão do dorso, exercendo deste modo esforço sobre a pars interarticularis no lado que se encontra em carga. Um teste positivo (que suscita dor) indica uma possível espondilólise ou espondilolistese.
+<td bgcolor="# f8f8f8"><img src="http://www.dorlombar.com/images/exame-objectivo-2.jpg" alt="" width="148" height="200" align="absmiddle" />O doente mantém-se de pé sobre um dos membros inferiores enquanto o examinador, colocado por trás do doente, procede, suavemente, à hiperextensão do dorso, exercendo deste modo esforço sobre a pars interarticularis no lado que se encontra em carga. Um teste positivo (que suscita dor) indica uma possível espondilólise ou espondilolistese.
 lateral.</td>
 </tr>
 </tbody>

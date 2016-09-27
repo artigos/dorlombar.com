@@ -4,7 +4,7 @@ title: contusões e distensões
 category: patologias
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 As Conclusões são comuns na população pediátrica activa e geralmente manifestam-se por equimoses e hiperestesias. As lesões no flanco justificam uma análise de urina para excluir a presença de hematúria microscópica e de lesão renal. As radiografias podem ser utilizadas para excluir uma palologia mais grave, incluindo fracturas e encontram-se indicadas quando a dor é desproporcionada em relação à natureza da lesão ou quando persistir durante mais de três semanas. O tratamento é principalmente sintomático e inclui o repouso, a aplicação de gelo e, se possível, a compressão.
 

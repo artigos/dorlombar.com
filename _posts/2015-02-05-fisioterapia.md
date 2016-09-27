@@ -5,7 +5,7 @@ category: artigos
 permalink: fisioterapia
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Os fisioterapeutas são profissionais de saúde credenciados que se formaram mediante uma programa académico acreditado. A maior parte dos programas de seguros cobrem a fisioterapia, mas geralmente é necessária a referenciação por parte dum médico.
 

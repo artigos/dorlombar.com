@@ -4,7 +4,7 @@ title: cancro da coluna
 category: dor lombar
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 <img src="http://www.dorlombar.com/images/cancro-da-coluna.jpg" alt="Cancro da coluna" />
 

@@ -4,7 +4,7 @@ title: lombalgia lordótica
 category: patologias
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 A lombalgia lordótica sintomática é geralmente uma consequência directa do crescimento rápido durante a adolescência, resultando num estiramento da fáscia tóraco-Iombar. Como com todas as lombalgias mecãnicas ou musculares durante a adolescência, a lombalgia lordótica deve ser considerada como diagnóstico apenas depois de terem sido excluídos outros problemas estruturais. A dor está geralmente relacionada com a acLividade, sem quaisquer sinais de mau prognóstico, tais como hipostesias, parestesias, dores nocturnas ou febre. No exame objectivo, pode existir hiperlordose (arqueamento para dentro da região lombar); os músculos da face posterior da coxa apresentam-se geralmente tensos. Se os sintomas sugerirem uma lesão ou fractura de esforço da pars, a avaliação deve seguir o protocolo da espondilólise.
 

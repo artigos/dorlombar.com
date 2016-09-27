@@ -4,7 +4,7 @@ title: fibromialgia
 category: patologias
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 A fibromialgia é geralmente definida como uma dor músculo-esquelética crónica com uma duração superior a 6 meses e que está associada a múltiplos pontos dolorosos. O doente refere frequentemente perturbações do sono, cefaleias, síndrome do cólon irritável, fraqueza. edemas ou rigidez matinal. Muitos dos pontos dolorosos estão localizados na região dorsal ou lombar e podem imitar uma dor dorso-lombar mais significativa. O tratamento incide na preservação da actividade, geralmente com fisioterapia. Os AINEs são úteis para a dor e um agente soporífero ligeiro, como a ciclobenzaprina, pode regular o ciclo do sono.
 

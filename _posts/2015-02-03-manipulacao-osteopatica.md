@@ -5,7 +5,7 @@ category: artigos
 permalink: manipulacao-osteopatica
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 A utilização da manipulação osteopática para o tratamento da lombalgia é aceite pela comunidade médica. Existem cerca de 42.000 médicos osteopatas credenciados nos EUA, o que perfaz cerca de 5% da população médica total. Nem todos os médicos osteopatas praticam tratamento manipulativo, embora alguns médicos alopatas o façam.
 

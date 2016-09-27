@@ -5,7 +5,7 @@ category: artigos
 permalink: contra-indicacoes-para-a-terapeutica-manual-da-lombalgia
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 A terapêutica manual da lombalgia tem algumas contra-indicações que descrevemos abaixo:
 

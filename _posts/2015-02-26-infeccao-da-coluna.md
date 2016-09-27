@@ -4,7 +4,7 @@ title: infeção da coluna
 category: dor lombar
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 <img src="http://www.dorlombar.com/images/infeccoes-da-coluna.jpg" alt="Infecção da coluna" />
 

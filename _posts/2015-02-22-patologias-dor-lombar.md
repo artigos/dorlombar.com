@@ -4,7 +4,7 @@ title: Patologias
 category: patologias
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 <table width="100%" border="0" cellspacing="7" cellpadding="5">
 <tbody>
@@ -14,7 +14,7 @@ category: patologias
 </td>
 </tr>
 <tr>
-<td valign="top" bgcolor="#f8f8f8"><strong>Doenças inflamatórias</strong>
+<td valign="top" bgcolor="# f8f8f8"><strong>Doenças inflamatórias</strong>
 <ul>
   <li>Discite</li>
   <li>Osteomielite vertebral</li>
@@ -37,7 +37,7 @@ category: patologias
   <li>Escoliose</li>
 </ul>
 </td>
-<td valign="top" bgcolor="#f8f8f8"><strong>Traumatismos e anomalias mecânicas</strong>
+<td valign="top" bgcolor="# f8f8f8"><strong>Traumatismos e anomalias mecânicas</strong>
 <ul>
   <li>Anomalias coxo-femurais-pélvicas</li>
   <li>Hérnia discal</li>

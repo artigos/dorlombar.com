@@ -4,7 +4,7 @@ title: vértebras de transição
 category: patologias
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 As vértebras de transição são uma segmentação congénita incompleta das vértebras lombar inferior e sagrada superior. Um estudo eslimou a prevalência das vértebras de transição em 30% nos homens.  A flexão e extensão rápidas da articulação no desempenho atlético podem causar inflamação da mesma, simulando a espondilóIise.
 

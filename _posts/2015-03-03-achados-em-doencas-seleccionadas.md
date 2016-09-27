@@ -4,7 +4,7 @@ title: achados em doenças selecionadas
 category: dor lombar
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 O conhecimento das formas de apresentação e achados específicos de várias doenças viscerais pode ajudar a um diagnóstico correcto.
 <h1>aneurisma da aorta abdominal</h1>

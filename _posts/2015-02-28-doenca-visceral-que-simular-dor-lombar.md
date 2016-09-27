@@ -4,7 +4,7 @@ title: doença visceral que simula dor lombar
 category: dor lombar
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Várias perturbações das vísceras abdominais podem provocar dor lombar, simulando doença da coluna lombar ou toracolombar. Algumas destas doenças embora sejam raras têm carácter de urgência e não devem ser ignoradas por porem em risco a vida do doente.
 <h2>história</h2>

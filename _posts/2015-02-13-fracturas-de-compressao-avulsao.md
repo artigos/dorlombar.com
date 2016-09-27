@@ -4,7 +4,7 @@ title: fraturas de compressão e de avulsão
 category: patologias
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Os desportos de colisão, tais como o futebol, o hóquei sobre gelo e o rugby, são responsáveis pela maior parte das fracturas de compressão nos adolescentes. Estas fracturas ocorrem geralmente após uma carga axial com o dorso numa posição flectida ou ortostática. O futebol, por exemplo, uma fractura da coluna cervical pode resultar de uma carga axial que ocorre quando o atleta cai sobre a cabeça ou colide com um oponente com a sua cabeça numa posição flectida (com o queixo encostado ao peito). A apresentação geralmente inclui dor localizada na apófise espinhosa envolvida e dor com a flexão ou com a extensão ou com ambas. A avaliação deve incluir a realização de radiografias com incidências antero-posterior e de perfil, assim como uma TAC para avaliar a estabilidade da fractura.
 
